@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello! I'm Hila, a Full-stack developer based in Israel.
+# Hello!👋 I'm Hila, a Full-stack developer based in Israel.	🇮🇱
 <br>I love building tools that are user-friendly, simple and delightful.<br>I was a student at The Collage of Management.<br>I also worked on Community Coding.
 
 
